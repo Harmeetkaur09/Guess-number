@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  background-color: #222;
+}
+
+h1 {
+    margin: 0;
+  font-size: 2.6rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.firstButton{
+    font-size: 1.2rem;
+    width: 170px;
+    height: 60px;
+    padding: auto;
+    margin: 20px 0px 0px 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.firstPara{
+  font-size: 1rem;
+  display: inline-block;
+  color: aliceblue;
+  position: absolute;
+  font-family: 'Press Start 2P', cursive;
+  margin-left: 48rem;
+}
+
+.number{
+  background-color: aliceblue;
+  /* color: aliceblue; */
+  padding-top: 1rem;
+  width: 10rem;
+  height: 6rem;
+  font-size: 4rem;
+  /* padding-top: 1.5rem; */
+  text-align: center;
+  margin-left: 36rem;
+  /* margin-top: 1rem; */
+  transform: translate(-50%, 50%);
+}
+
+.enterNumber{
+  height: 6rem;
+  width: 13rem;
+  display: block;
+  font-size: 3rem;
+  border: 4rem;
+  text-align: center;
+  border: 0.5rem solid white;
+  background-color: #222;
+  color: aliceblue;
+  font-family: 'Press Start 2P', cursive;
+}
+
+/* .firstDiv{
+  margin: 2rem 0 0 10rem;
+} */
+
+.upperDiv {
+  /* background-color: #222; */
+  font-family: 'Press Start 2P', cursive;
+  height: 19rem;
+  height: 19rem;
+}
+
+.lowerDiv{
+  /* background-color: #222; */
+  padding: 1rem 0 3rem 10rem;
+  position: relative;
+  display: flex;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.left{
+  display: inline;
+}
+
+.right{
+  float: right;
+  color: aliceblue;
+  margin: 1rem 0 0 20rem;
+  font-size: 1rem;
+}
+
+.check{
+  margin: 2rem 0 0 2rem;
+  height: 4rem;
+  width: 11rem;
+  font-size: 1.3rem;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.message{
+  margin-bottom: 4rem;
+}
